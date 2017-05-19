@@ -1,0 +1,30 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     1007 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.533 seconds
+Platform assembly: C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\patri\Documents\RollABall\Builds\RollABall_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 3046x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.130075 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 168c -> priority: 1 
+  Thread -> id: ab8 -> priority: 1 
